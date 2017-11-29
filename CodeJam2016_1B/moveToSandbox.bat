@@ -1,0 +1,1 @@
+copy %1 C:\Users\efrees\LocalProjects\CodeJam2016_1B\inputsAndSandbox\

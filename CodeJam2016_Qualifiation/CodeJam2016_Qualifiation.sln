@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinJam", "CoinJam\CoinJam.csproj", "{1F35A5D7-4E03-4EBC-BE95-C1C43AAC582F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fractiles", "Fractiles\Fractiles.csproj", "{1D438B5D-F49B-478C-8DFB-48793C6CB057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevengeOfThePancakes", "RevengeOfThePancakes\RevengeOfThePancakes.csproj", "{FB50CAAE-B7AD-4EC1-BE1B-444D8F2FC517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSheep", "CountingSheep\CountingSheep.csproj", "{F8B5648F-F38A-4BF8-B378-A2244C4508DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F35A5D7-4E03-4EBC-BE95-C1C43AAC582F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F35A5D7-4E03-4EBC-BE95-C1C43AAC582F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F35A5D7-4E03-4EBC-BE95-C1C43AAC582F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F35A5D7-4E03-4EBC-BE95-C1C43AAC582F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D438B5D-F49B-478C-8DFB-48793C6CB057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D438B5D-F49B-478C-8DFB-48793C6CB057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D438B5D-F49B-478C-8DFB-48793C6CB057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D438B5D-F49B-478C-8DFB-48793C6CB057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB50CAAE-B7AD-4EC1-BE1B-444D8F2FC517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB50CAAE-B7AD-4EC1-BE1B-444D8F2FC517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB50CAAE-B7AD-4EC1-BE1B-444D8F2FC517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB50CAAE-B7AD-4EC1-BE1B-444D8F2FC517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B5648F-F38A-4BF8-B378-A2244C4508DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B5648F-F38A-4BF8-B378-A2244C4508DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B5648F-F38A-4BF8-B378-A2244C4508DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B5648F-F38A-4BF8-B378-A2244C4508DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
